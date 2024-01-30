@@ -25,6 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=astohacker&show_icons=true&locale=en&layout=compact" alt="astohacker" /></p>
 
+[![Astohacker's GitHub stats](https://github-readme-stats.vercel.app/api?username=astohacker)](https://github.com/astohacker/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=astohacker&show_icons=true&locale=en" alt="astohacker" /></p>
 
