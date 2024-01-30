@@ -1,6 +1,6 @@
 <p align="center">
  <br>
- Yooo! My name <b><a href="https://facebook.com/nameshut">PhaiwanX</a></b>
+ Yooo! My name <b><a href="https://facebook.com/nameshut">narudom</a></b>
   <br>I im just student.<br>
    
   <img src="https://i.pinimg.com/originals/8d/d1/76/8dd176c04a07c37b80a640dbc73382ff.gif" >
@@ -8,19 +8,8 @@
 </p>
 
  ```sql 
- SELECT Skills FROM Phaiwan; 
+ SELECT Skills FROM narudom; 
  ```
-
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=ps,pr,blender" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,vue,nuxtjs,typescript,react,next,mongodb" />
-</p>
-<h1 align="center">Hi m👋, I' narudom</h1>
-<h3 align="center">Thai</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astohacker&label=Profile%20views&color=0e75b6&style=flat" alt="astohacker" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astohacker" alt="astohacker" /></a> </p>
