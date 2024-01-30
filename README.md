@@ -25,7 +25,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astohacker&layout=compact)](https://github.com/astohacker/github-readme-stats)
-![Astohacker's GitHub profile summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=astohacker&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=astohacker&theme=github)
 
 
 
