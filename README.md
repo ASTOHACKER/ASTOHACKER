@@ -1,6 +1,6 @@
 <p align="center">
  <br>
- Yooo! My name <b><a href="https://facebook.com/nameshut">narudom</a></b>
+ Yooo! My name <b><a href="[https://facebook.com/nameshut](https://www.facebook.com/)">narudom</a></b>
   <br>I im just student.<br>
    
   <img src="https://i.pinimg.com/originals/8d/d1/76/8dd176c04a07c37b80a640dbc73382ff.gif" >
