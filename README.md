@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.facebook.com/nameshut">facebook</a> ·
+  <a href="https://www.facebook.com/">facebook</a> ·
   <a href="https://github.com/narudom">github</a>
 </p>
 
