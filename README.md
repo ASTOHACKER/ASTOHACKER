@@ -15,9 +15,6 @@
 
 ### now building
 - **Second Brain** — LLM Wiki / Obsidian workflow
-- **JOBDEE** — job board with Next.js + Supabase
-- **Chess App** — click-to-move browser chess
-
 ### stack
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat-square" />
