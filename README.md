@@ -34,25 +34,26 @@
 
 ### Overview
 
-```text
-┌── [about-me] ─────────────────────────────────────────────────────────────────────┐
-│ • Studies:     B.Sc. in Information Technology (Year 2) @ PSU Hat Yai (GPA: 3.43) │
-│ • Focus:       High-performance backends, compilers & system design               │
-│ • Systems:     Second Brain / PKM (Obsidian & LLM-augmented workflows)            │
-│ • Environment: Linux power-user (CachyOS / Arch Linux) & CLI-first craft          │
-└───────────────────────────────────────────────────────────────────────────────────┘
-```
-
 <table width="100%">
   <tr>
-    <td width="16%" align="center" valign="middle">
+    <td width="60%" valign="top">
+      <b>about-me</b>
+      <ul>
+        <li><b>Studies:</b> B.Sc. in Information Technology (Year 2) @ PSU Hat Yai (GPA: 3.43)</li>
+        <li><b>Focus:</b> High-performance backends, compilers &amp; system design</li>
+        <li><b>Systems:</b> Second Brain / PKM (Obsidian &amp; LLM-augmented workflows)</li>
+        <li><b>Environment:</b> Linux power-user (CachyOS / Arch Linux) &amp; CLI-first craft</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
       <a href="https://github.com/ASTOHACKER/nelysia">
         <img src="https://raw.githubusercontent.com/ASTOHACKER/nelysia/main/docs/logo.png" width="72" height="72" alt="Nelysia Logo" />
       </a>
-    </td>
-    <td width="84%" valign="middle">
-      <b>Flagship Project: <a href="https://github.com/ASTOHACKER/nelysia">nelysia</a></b> — <i>"Compile more. Execute less."</i><br />
-      <sub>Compiler-first TypeScript backend framework for Bun, Node.js, and Web Standards.</sub><br />
+      <br />
+      <b>Flagship: <a href="https://github.com/ASTOHACKER/nelysia">nelysia</a></b> — <i>"Compile more. Execute less."</i>
+      <br />
+      <sub>Compiler-first TypeScript backend for Bun, Node.js, and Web Standards.</sub>
+      <br /><br />
       <a href="https://github.com/ASTOHACKER/nelysia">
         <img src="https://img.shields.io/badge/AOT%20Compiler-3--Lane-38bdf8?style=flat-square" alt="AOT Compiler" />
         <img src="https://img.shields.io/badge/Throughput-95k%20req%2Fs-22c55e?style=flat-square" alt="Throughput" />
