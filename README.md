@@ -43,13 +43,32 @@
 └───────────────────────────────────────────────────────────────────────────────────┘
 ```
 
+<table width="100%">
+  <tr>
+    <td width="16%" align="center" valign="middle">
+      <a href="https://github.com/ASTOHACKER/nelysia">
+        <img src="https://raw.githubusercontent.com/ASTOHACKER/nelysia/main/docs/logo.png" width="72" height="72" alt="Nelysia Logo" />
+      </a>
+    </td>
+    <td width="84%" valign="middle">
+      <b>Flagship Project: <a href="https://github.com/ASTOHACKER/nelysia">nelysia</a></b> — <i>"Compile more. Execute less."</i><br />
+      <sub>Compiler-first TypeScript backend framework for Bun, Node.js, and Web Standards.</sub><br />
+      <a href="https://github.com/ASTOHACKER/nelysia">
+        <img src="https://img.shields.io/badge/AOT%20Compiler-3--Lane-38bdf8?style=flat-square" alt="AOT Compiler" />
+        <img src="https://img.shields.io/badge/Throughput-95k%20req%2Fs-22c55e?style=flat-square" alt="Throughput" />
+        <img src="https://img.shields.io/badge/Runtime-Bun%20%7C%20Node%2022%2B-0284c7?style=flat-square" alt="Runtime" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### Featured Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[nelysia](https://github.com/ASTOHACKER/nelysia)** | Compiler-first TypeScript backend framework for Bun & Node.js. *Compile more. Execute less.* | `Bun` `TypeScript` `Compiler` |
+| <a href="https://github.com/ASTOHACKER/nelysia"><img src="https://raw.githubusercontent.com/ASTOHACKER/nelysia/main/docs/logo.png" width="18" height="18" valign="middle" alt="nelysia" /> **nelysia**</a> | Compiler-first TypeScript backend framework for Bun & Node.js. *Compile more. Execute less.* | `Bun` `TypeScript` `Compiler` |
 | **Second Brain** | Personal knowledge graph, LLM-assisted search & obsidian external brain system. | `LLM` `Obsidian` `Markdown` |
 | **[Resume-Web](https://resume-web-one-sigma.vercel.app/)** | Interactive portfolio & resume showcase. | `Next.js` `Tailwind CSS` `Vercel` |
 | **[NARUCL](https://github.com/ASTOHACKER/NARUCL)** | High-productivity CLI utilities and developer tooling. | `TypeScript` `CLI` `Node.js` |
