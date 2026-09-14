@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,70:0284c7,100:38bdf8&height=180&section=header&text=NARUDOM%20AOKAT&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Systems%20%26%20Compiler%20Enthusiast&descFontSize=17&descColor=bae6fd&descAlignY=62" width="100%" alt="Header Banner" />
+  <img src="./assets/banner.svg" width="100%" alt="Narudom Aokat - Header Banner" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Building+tools+for+my+own+mind;Full-Stack+%C2%B7+SSR+%C2%B7+Second+Brain+%C2%B7+CLI-First;Compiler-first+frameworks+%26+low-level+experiments;Student+%40+Prince+of+Songkla+University" alt="Typing SVG" />
@@ -115,8 +115,4 @@
 
 <p align="center">
   <samp><i>"Compile more. Execute less."</i></samp>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,70:0284c7,100:38bdf8&height=100&section=footer" width="100%" alt="Footer Banner" />
 </p>
